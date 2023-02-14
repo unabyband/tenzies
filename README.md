@@ -2,4 +2,4 @@
 
 [Source code](https://github.com/unabyband/tenzies)
 
-[Application] (https://unabyband.github.io/tenzies/)
+[Application](https://unabyband.github.io/tenzies/)
