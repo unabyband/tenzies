@@ -68,6 +68,7 @@ main {
     font-size: 1.2rem;
     font-family: 'Karla', sans-serif;
     cursor: pointer;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
 .roll-dice:focus {
